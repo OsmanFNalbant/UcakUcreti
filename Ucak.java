@@ -12,7 +12,7 @@ public class Ucak {
         b = sc.nextInt();
         System.out.println("Tek yön ise 1, gidis gelis ise 2 yazınız:");
         c = sc.nextInt();
-        if(a>0 && b>0 && c>0)
+        if(a>0 && b>0 && c==1 && c==2)
         {
             if(c==1)
             {
